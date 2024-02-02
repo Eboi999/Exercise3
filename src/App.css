@@ -1,0 +1,37 @@
+body {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  color: rgb(14, 3, 107),
+}
+
+h1 {
+  font-size: 150px;
+  color: rgb(13, 85, 41);
+  font-family: bold;
+}
+
+input {
+  margin-right: 10px;
+  padding: 10px;
+  border: 1px solid #9e0c0c;
+  border-radius: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 8px;
+  padding: 8px;
+}
+
+button {
+  margin-left: 4px;
+  background-color: rgb(7, 28, 216);
+  padding: 8px;
+  border-radius: 4px;
+  color: #fff;
+  border: none;
+} 
